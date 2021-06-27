@@ -1,0 +1,1 @@
+sh ./scripts/train_cityscapes_mmfanet.sh
